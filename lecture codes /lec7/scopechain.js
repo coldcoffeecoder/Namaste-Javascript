@@ -1,0 +1,1 @@
+//scope chain --> is a chain of all these lexical env at the parent  reference
